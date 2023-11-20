@@ -1,0 +1,15 @@
+[
+  {
+    "title": "tareas",
+    "name": "Tareas",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-file-text-fill",
+    "link": {
+      "name" : "tareas.tareas"
+    }
+  }
+
+]
